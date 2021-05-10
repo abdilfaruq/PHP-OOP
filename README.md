@@ -13,7 +13,7 @@
 - `Repository` call `Database`
 
 
-## Materi PHP-OOP:
+## Materi PHP-OOP
 - Create `Entity`
 - Create `Repository`
 - Create `Service`
